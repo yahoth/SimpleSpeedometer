@@ -19,7 +19,6 @@
 		76B859202AD7EAE900D9AEE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76B8591E2AD7EAE900D9AEE0 /* LaunchScreen.storyboard */; };
 		76B8592D2AD8550200D9AEE0 /* UnitOfSpeed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76B8592C2AD8550200D9AEE0 /* UnitOfSpeed.swift */; };
 		76D4E1332AEBABCD00C332CB /* ActivityType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D4E1322AEBABCD00C332CB /* ActivityType.swift */; };
-		76D4E1352AEBB36800C332CB /* CustomBarButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76D4E1342AEBB36800C332CB /* CustomBarButtonItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,7 +36,6 @@
 		76B859212AD7EAE900D9AEE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		76B8592C2AD8550200D9AEE0 /* UnitOfSpeed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitOfSpeed.swift; sourceTree = "<group>"; };
 		76D4E1322AEBABCD00C332CB /* ActivityType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityType.swift; sourceTree = "<group>"; };
-		76D4E1342AEBB36800C332CB /* CustomBarButtonItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBarButtonItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,7 +83,6 @@
 				76B859192AD7EAE700D9AEE0 /* Main.storyboard */,
 				76B859172AD7EAE700D9AEE0 /* SpeedometerViewController.swift */,
 				767910762ADFE3F500DBD494 /* SpeedometerViewModel.swift */,
-				76D4E1342AEBB36800C332CB /* CustomBarButtonItem.swift */,
 				7679107A2ADFEBF300DBD494 /* Utilities */,
 				76B8592B2AD854ED00D9AEE0 /* Enum */,
 				76B8591C2AD7EAE900D9AEE0 /* Assets.xcassets */,
@@ -184,7 +181,6 @@
 				76D4E1332AEBABCD00C332CB /* ActivityType.swift in Sources */,
 				767910BE2AE19ECA00DBD494 /* Stopwatch.swift in Sources */,
 				767910772ADFE3F500DBD494 /* SpeedometerViewModel.swift in Sources */,
-				76D4E1352AEBB36800C332CB /* CustomBarButtonItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
